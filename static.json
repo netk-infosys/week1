@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "netkinfosys"
+      "X-Author": "netkinfosys",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
